@@ -26,5 +26,5 @@
    One drawback of this design is that the filter search is not responsive to simply clicking "enter" after 
   inputting the query. To sucessfully complete the search, the user will have to click tab or click 
   elsewhere on the page. 
-    Two recommendations for surther development are: Enabling the search responsiveness to the enter button 
+    Two recommendations for further development are: Enabling the search responsiveness to the enter button 
   for convenience and providing a more extensive library of UFO sightings across the world. 
