@@ -36,18 +36,21 @@ function buildTable(data) {
 //use D3 to handle an action from a user, such as a button click. Add an actual button to our HTML page to filter the table. 
 //select the very first element that matches our selector string: "#datetime". - telling D3 to look for the #datetime id in the HTML tags.
 function handleClick() {
+     Object.entries(filters).forEach(([key, value]) => {
+    filteredData = filteredData.filter(row => row[key] === value);
+  });
     // Grab the datetime value from the filter
     //#datetime is an id
-    let date = d3.select("#datetime").property("value");
-    let filteredData = tableData;
+    //let date = d3.select("#datetime").property("value");
+    //let filteredData = tableData;
     //If there is a date already set, then use that date 
     //as a filter. If not, then return the default data.
      // Check to see if a date was entered and filter the
     // data using that date.
-    if (date) {
+   // if (date) {
       // Apply `filter` to the table data to only keep the
       // rows where the `datetime` value matches the filter value
-      filteredData = filteredData.filter(row => row.datetime === date);
+      //filteredData = filteredData.filter(row => row.datetime === date);
     }
   
      // Rebuild the table using the filtered data
