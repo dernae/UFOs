@@ -1,9 +1,8 @@
-# UFOs - Module 11 
 
 # Overview of Project
 
    The purpose of this project was to build a table using a given JavaScript array that contains 
-  UFO sighting information(date, city, state, country,shape etc). I did so by creating a webite 
+  UFO sighting information(date, city, state, country, shape etc). I did so by creating a website 
   through the use of HTML. To make the table fully dynamic, filters were created to react to 
   user input. The display was customized using Bootstrap. 
 
