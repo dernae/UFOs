@@ -16,7 +16,7 @@
    ![](https://github.com/dernae/UFOs/blob/main/html_images/webpage_top.png)<br>
    <br><br>
 
-    The filters are set in place for the user's convenience. The fiters' function is to help the user to 
+  The filters are set in place for the user's convenience. The fiters' function is to help the user to 
   sift through desired parameters: date, city, state, country,shape. 
   
    <br><br>
