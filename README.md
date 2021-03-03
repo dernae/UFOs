@@ -11,11 +11,18 @@
    The organized UFO data on the webpage will provide convenience for the user looking to gather specific 
   information on UFO sightings. The paragraph image, article title and article are beautifully displayed 
   to grab the user's attention and give a clear idea of the information that will be available to them. 
-<br><br>
-![](https://github.com/dernae/UFOs/blob/main/html_images/webpage_top.png)<br>
-<br><br>
+  
+   <br><br>
+   ![](https://github.com/dernae/UFOs/blob/main/html_images/webpage_top.png)<br>
+   <br><br>
+
     The filters are set in place for the user's convenience. The fiters' function is to help the user to 
-  sift through desired parameters: date, city, state, country,shape. See /html_images/webpage_filters.png. 
+  sift through desired parameters: date, city, state, country,shape. 
+  
+   <br><br>
+   ![](https://github.com/dernae/UFOs/blob/main/html_images/webpage_filters.png)<br>
+   <br><br>
+
   For example, the webpage would be especially useful for people researching UFO sightings in specific 
   regions of the country. The filters are equipped with placeholders that provide the researcher with an example 
   of possible queries; the researcher would type 'ca' for a query of the California state. The webpage would
